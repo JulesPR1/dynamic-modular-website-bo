@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_single_image_links",
+  "info": {
+    "displayName": "image_link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "button_text": {
+      "type": "string"
+    },
+    "button_link": {
+      "type": "string",
+      "default": "#"
+    }
+  }
+}
