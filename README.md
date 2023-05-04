@@ -1,4 +1,5 @@
 # Dynamic modular website back-office with Strapi
+## Work in progress
 
 This project is a back-office for a dynamic modular website. It is built with Strapi, a headless CMS, and a [Rails application](https://github.com/JulesPR1/dynamic-modular-site-front) use the API provided to display the customized website content.
 
